@@ -1,0 +1,17 @@
+html {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+header {
+    background-color: rgb(136, 158, 175);
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav li {
+    display: inline-block;
+}
