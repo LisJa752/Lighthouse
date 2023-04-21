@@ -10,9 +10,11 @@ body {
 }
 header {
     background-color: rgb(136, 158, 175);
+    vertical-align: middle;
 }
 h1 {
     margin:0px ;
+    display: inline-block;
 }
 nav ul {
     list-style-type: none;
@@ -24,7 +26,6 @@ nav li {
 header nav li {
     text-align: center;
     padding: 20px;
-    border-top:
 }
 header nav a {
     text-decoration: none;
@@ -49,7 +50,8 @@ nav {
     border-top: solid;
 }
 img {
-    width: 60px;
+    width: 79.1px;
+    vertical-align: bottom;
 }
 .center {
     padding: 70px;
