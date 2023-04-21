@@ -50,9 +50,9 @@ img {
     border: 3px;
 }
 article ol {
-    list-style-type:🥪;
+    list-style-type:"🥪";
 }
 
 article ul {
-    list-style-type:🥂;
+    list-style-type:"🥂";
 }
