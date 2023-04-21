@@ -32,7 +32,7 @@ header nav a {
     color: black;
 }
 header nav ul {
-    margin: 0px
+    margin: 0px;
 }
 li.current {
     background-color: gray;
