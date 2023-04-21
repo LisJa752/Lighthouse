@@ -49,3 +49,10 @@ img {
     padding: 70px;
     border: 3px;
 }
+article ol {
+    list-style-type:🥪;
+}
+
+article ul {
+    list-style-type:🥂;
+}
