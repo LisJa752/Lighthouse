@@ -64,3 +64,9 @@ article ol {
 article ul {
     list-style-type:"🥂";
 }
+img , h1 {
+    vertical-align: middle;
+}
+address{
+    line-height: 26px;
+}
