@@ -12,7 +12,7 @@ header {
     background-color: rgb(136, 158, 175);
 }
 h1 {
-    margin: 0px
+    margin:0px ;
 }
 nav ul {
     list-style-type: none;
@@ -36,15 +36,20 @@ header nav ul {
 li.current {
     background-color: gray;
 }
-a:hover{
+a.aktuel{
     color: whitesmoke;
+}
+a:hover{
+    color: rgb(136, 158, 175);
+}
+header li:hover{
+    background-color: black;
 }
 nav {
     border-top: solid;
 }
 img {
     width: 60px;
-    margin-left: 5px;
 }
 .center {
     padding: 70px;
